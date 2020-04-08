@@ -1,0 +1,23 @@
+Nalita Kao - 1TDSH
+
+O que a empresa quer:
+
+-Planejamento de rotas de coleta com meio que um Waze falando do tráfego.
+-GPS nos caminhões pra saber onde eles estão.
+-Armazenar histórico de lixo de cada rua, conforme dito pelos motoristas.
+-Ligar cada tipo de caminhão (pela tonelagem) com o histórico de lixo das ruas.
+
+
+Em Taiwan, o caminhão de lixo passa mais de uma vez, e quando ele está passando em uma rua onde ele é responsável, toca uma música para avisar os moradores que eles devem levar o lixo, isso é positivo pois há menos lixo nas ruas porque as pessoas só levam o lixo quando ele já vai ser recolhido.
+
+Na cidade de Songdo, na Coréia do Sul, é adotado o sistema de coleta de lixo de forma pneumática, onde seus habitantes depositam os resíduos recicláveis em um recipiente e esses resíduos são encaminhados para aterros a partir de um complexo de dutos montados no subsolo. Esse sistema exclusivo ajuda a diminuir o uso e tráfego de caminhões.
+
+Sistema de coleta de lixo em Barcelona é subterrâneo que nem o da Coréia: Um dos principais benefícios ambientais é a redução das emissões de CO2 que são resultados do tráfego reduzido de veículo para fazer a coleta pela cidade. Outro ponto interessante está na -facilidade da instalação-, visto que metrópoles e zonas rurais podem ter os benefícios proporcionados pelo sistema subterrâneo de coleta de lixo. Arranha-céus, espaços públicos, estabelecimentos de saúde, de hotéis e complexos de escritórios podem ser subsidiados facilmente com a medida.Sistemas de recolha de resíduos do gênero possuem economia notável. Não há caminhões de resíduos necessários para coletar recipientes das áreas residenciais, trazendo menos custos de combustível, veículos e à atmosfera. Embora o custo de investimento inicial para um sistema pneumático seja mais elevado do que o cobrado pelos métodos tradicionais, o custo de funcionamento do sistema antigo se eleva após algum período de recuperação típico estimado de 10-12 anos. Os pontos de recolha de resíduos de sistema pneumático encorajam os utilizadores para reciclar de forma mais eficiente. As entradas de ar nunca são cheias. O fato de não existirem pilhas disformes de resíduos ou odores desagradáveis é benéfico para a limpeza e a imagem da área. De fato, as condutas são flexíveis e o sistema não fica congestionado.
+
+
+Brainstorm: sistema pneumático, indicar quando o comainhão passará, assim reduz a quantidade de viagens de caminhões (menos custo de combustível), relacionar a capacidade de cada caminhão com a quantidade de lixo produzida em cada rua (média). 
+
+Fontes:
+https://www.vgresiduos.com.br/blog/cidades-inteligentes-lugares-pelo-mundo-que-conseguem-ter-uma-coleta-seletiva-eficiente/
+https://meioambiente.culturamix.com/lixo/sistema-de-coleta-de-lixo-subterranea
+https://www.vgresiduos.com.br/blog/implantar-coleta-seletiva-eficiente-nas-empresas/
